@@ -9,7 +9,6 @@
 
 <h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me</h2>
 <pre>
-<img align="right" alt="GIF" height="160px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDV6Mms5NHhnZGVseHo5ZTBiODViZHY4bHZtYWFpMW1qNmRuMzhsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"/>
 💻 I am a Systems Engineering student
 📚 I have taken courses in Computer Security
 📝 I am very interested in continuing to learn about Cybersecurity
